@@ -1,3 +1,3 @@
 #project
 
-sign form with React.
+sign up form with React.
